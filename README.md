@@ -1,2 +1,2 @@
 # ROI-StaffDirectory
-HR Platform
+Red Opal Innovations Staff Contact Directory — React Native App
